@@ -1,0 +1,4 @@
+
+DB Name	id19934334_wp_77d7a4bc83d451d240bfcadb5d1c17be
+DB User	id19934334_wp_77d7a4bc83d451d240bfcadb5d1c17be
+DB Host	localhost
